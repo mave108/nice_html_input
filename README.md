@@ -1,2 +1,5 @@
-# nice_html_input
-Nice styled form input
+## Nice Styled HTML Input
+
+
+[Link](url) and ![Image](src)
+```
